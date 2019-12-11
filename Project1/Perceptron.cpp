@@ -5,6 +5,7 @@
 #include <time.h>
 
 #include <iostream>
+//GitHub web kommentar kl 7:06
 
 Perceptron::Perceptron(TrainingSet *ts, int ts_count)
 {
